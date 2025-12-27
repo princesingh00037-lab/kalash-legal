@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Grievance Redressal Policy - Kalash</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: auto;
+            padding: 24px;
+            line-height: 1.7;
+            color: #222;
+            background-color: #ffffff;
+        }
+        h1 {
+            font-size: 26px;
+            margin-bottom: 12px;
+        }
+        p, li {
+            margin-top: 10px;
+            font-size: 14px;
+            text-align: justify;
+        }
+        ul {
+            margin-top: 10px;
+            padding-left: 20px;
+        }
+        .contact {
+            margin-top: 14px;
+            padding: 12px;
+            border: 1px solid #ddd;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Grievance Redressal Policy</h1>
+
+    <p>
+        Kalash is committed to providing a transparent, fair, and responsive grievance redressal mechanism
+        in accordance with applicable Indian laws and regulations.
+    </p>
+
+    <p>
+        Users who have any complaints, concerns, or grievances relating to the Kalash platform, its services,
+        content, or operations may raise such grievances in the manner described below.
+    </p>
+
+    <ul>
+        <li>All grievances should be submitted in writing via email to the designated Grievance Officer.</li>
+        <li>Kalash shall acknowledge receipt of the grievance within 48 (forty-eight) hours.</li>
+        <li>Kalash shall make reasonable efforts to resolve the grievance within 15 (fifteen) business days.</li>
+    </ul>
+
+    <div class="contact">
+        <strong>Grievance Officer Details:</strong><br>
+        Name: Compliance Officer<br>
+        Email: grievance@kalash.app<br>
+        Working Hours: Monday to Friday, 10:00 AM – 6:00 PM IST
+    </div>
+
+    <p>
+        If a user is not satisfied with the resolution provided, the user may pursue remedies available under
+        applicable Indian law.
+    </p>
+
+</body>
+</html>
