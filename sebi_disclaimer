@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SEBI Disclaimer - Kalash</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: auto;
+            padding: 24px;
+            line-height: 1.7;
+            color: #222;
+            background-color: #ffffff;
+        }
+        h1 {
+            font-size: 26px;
+            margin-bottom: 12px;
+        }
+        p {
+            margin-top: 10px;
+            font-size: 14px;
+            text-align: justify;
+        }
+        .important {
+            color: #b00020;
+            font-weight: bold;
+            margin-top: 14px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>SEBI Disclaimer</h1>
+
+    <p class="important">
+        IMPORTANT NOTICE:
+    </p>
+
+    <p>
+        Kalash is not registered with the Securities and Exchange Board of India (SEBI) as an investment advisor
+        or research analyst. Kalash does not provide any form of investment advisory, portfolio management,
+        or personalized financial recommendations.
+    </p>
+
+    <p>
+        All information, content, tools, and materials made available through the Kalash platform are provided
+        strictly for educational and informational purposes only and should not be construed as financial,
+        investment, legal, or tax advice.
+    </p>
+
+    <p>
+        Users are solely responsible for evaluating the merits and risks associated with the use of any information
+        provided on the platform and for making their own independent trading and investment decisions.
+    </p>
+
+    <p>
+        Kalash expressly disclaims any and all liability for losses or damages arising directly or indirectly
+        from the use of, or reliance upon, any information provided through the platform.
+    </p>
+
+</body>
+</html>
