@@ -1,27 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>Risk Disclosure - Kalash</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-body{font-family:Arial;max-width:900px;margin:auto;padding:24px;line-height:1.7}
-</style>
+    <meta charset="UTF-8">
+    <title>Risk Disclosure - Kalash</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: auto;
+            padding: 24px;
+            line-height: 1.7;
+            color: #222;
+            background-color: #ffffff;
+        }
+        h1 {
+            font-size: 26px;
+            margin-bottom: 12px;
+        }
+        p, li {
+            margin-top: 10px;
+            font-size: 14px;
+            text-align: justify;
+        }
+        ul {
+            margin-top: 10px;
+            padding-left: 20px;
+        }
+        .note {
+            font-size: 13px;
+            color: #555;
+            margin-top: 12px;
+        }
+    </style>
 </head>
 <body>
 
-<h1>Risk Disclosure Statement</h1>
+    <h1>Risk Disclosure</h1>
 
-<p>Trading and investing in securities involves substantial risk of loss and is not suitable for all investors.</p>
+    <p>
+        Trading and investing in financial instruments, including equities, derivatives, and commodities,
+        involves substantial risk and is not suitable for all investors. Market conditions can change
+        rapidly and unpredictably, and prices may fluctuate significantly.
+    </p>
 
-<ul>
-<li>Market prices fluctuate unpredictably.</li>
-<li>Past performance does not guarantee future results.</li>
-<li>Leverage and derivatives amplify losses.</li>
-<li>You may lose all invested capital.</li>
-</ul>
+    <ul>
+        <li>Past performance does not guarantee future results.</li>
+        <li>You may lose part or all of your invested capital.</li>
+        <li>Leverage and margin trading can amplify losses.</li>
+        <li>Market volatility can result in rapid and unexpected losses.</li>
+        <li>Technical failures, connectivity issues, or data delays may affect execution or information accuracy.</li>
+    </ul>
 
-<p>You acknowledge that Kalash is not responsible for your financial outcomes.</p>
+    <p>
+        You acknowledge that all trading decisions are made at your own discretion and risk.
+        Kalash does not provide investment advice, portfolio management, or personalized financial recommendations.
+    </p>
+
+    <p class="note">
+        By using the Kalash platform, you confirm that you understand and accept the risks associated with
+        financial market trading and that you are solely responsible for any gains or losses incurred.
+    </p>
 
 </body>
 </html>
