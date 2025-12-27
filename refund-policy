@@ -1,20 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>Refund Policy - Kalash</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-body{font-family:Arial;max-width:900px;margin:auto;padding:24px;line-height:1.7}
-</style>
+    <meta charset="UTF-8">
+    <title>Refund Policy - Kalash</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: auto;
+            padding: 24px;
+            line-height: 1.7;
+            color: #222;
+            background-color: #ffffff;
+        }
+        h1 {
+            font-size: 26px;
+            margin-bottom: 12px;
+        }
+        p {
+            margin-top: 10px;
+            font-size: 14px;
+            text-align: justify;
+        }
+        .note {
+            color: #555;
+            font-size: 13px;
+            margin-top: 12px;
+        }
+    </style>
 </head>
 <body>
 
-<h1>Refund Policy</h1>
+    <h1>Refund Policy</h1>
 
-<p>All payments made to Kalash are final and non-refundable unless otherwise required by law.</p>
+    <p>
+        All payments made to Kalash for access to services, features, or subscriptions are final and non-refundable,
+        except where required by applicable law or expressly stated otherwise.
+    </p>
 
-<p>Refunds may be issued at Kalash’s sole discretion in cases of duplicate payment or technical error.</p>
+    <p>
+        Refunds may be considered solely at Kalash’s discretion in cases of duplicate payment, technical errors,
+        or incorrect charges attributable to the platform.
+    </p>
+
+    <p>
+        To request a refund, users must submit a written request via email with relevant transaction details.
+        Kalash will review such requests and communicate a decision within a reasonable timeframe.
+    </p>
+
+    <p class="note">
+        This Refund Policy does not affect any statutory rights that may be available to users under applicable law.
+    </p>
 
 </body>
 </html>
