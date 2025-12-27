@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Kalash</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: auto;
+            padding: 24px;
+            line-height: 1.7;
+            color: #222;
+            background-color: #ffffff;
+        }
+        h1 {
+            font-size: 26px;
+            margin-bottom: 12px;
+        }
+        h2 {
+            font-size: 20px;
+            margin-top: 20px;
+        }
+        p {
+            margin-top: 10px;
+            font-size: 14px;
+            text-align: justify;
+        }
+        .disclaimer {
+            font-size: 13px;
+            color: #555;
+            margin-top: 8px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>About Kalash</h1>
+
+    <p>
+        Kalash is an informational stock market platform that provides structured market insights and educational trade ideas.
+        Kalash is not a SEBI registered investment advisor or research analyst and does not execute trades on behalf of users.
+    </p>
+
+    <h2>Our Model</h2>
+
+    <p>
+        Kalash operates on a performance-linked service model. Kalash may charge a performance-based service fee on verified profits.
+        Kalash does not guarantee reimbursement of losses; however, in exceptional cases, goodwill-based compensation may be offered
+        at Kalash’s discretion.
+    </p>
+
+    <h2>SEBI Disclaimer</h2>
+
+    <p class="disclaimer">
+        Kalash is not registered with the Securities and Exchange Board of India (SEBI) as an investment advisor or research analyst.
+        All information provided through the platform is for educational purposes only and should not be construed as financial
+        or investment advice. Users are solely responsible for their trading and investment decisions.
+    </p>
+
+</body>
+</html>
