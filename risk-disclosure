@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Risk Disclosure - Kalash</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body{font-family:Arial;max-width:900px;margin:auto;padding:24px;line-height:1.7}
+</style>
+</head>
+<body>
+
+<h1>Risk Disclosure Statement</h1>
+
+<p>Trading and investing in securities involves substantial risk of loss and is not suitable for all investors.</p>
+
+<ul>
+<li>Market prices fluctuate unpredictably.</li>
+<li>Past performance does not guarantee future results.</li>
+<li>Leverage and derivatives amplify losses.</li>
+<li>You may lose all invested capital.</li>
+</ul>
+
+<p>You acknowledge that Kalash is not responsible for your financial outcomes.</p>
+
+</body>
+</html>
