@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>No Profit Guarantee - Kalash</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: auto;
+            padding: 24px;
+            line-height: 1.7;
+            color: #222;
+            background-color: #ffffff;
+        }
+        h1 {
+            font-size: 26px;
+            margin-bottom: 12px;
+        }
+        p {
+            margin-top: 10px;
+            font-size: 14px;
+            text-align: justify;
+        }
+        .warning {
+            color: #b00020;
+            font-weight: bold;
+            margin-top: 14px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>No Profit Guarantee</h1>
+
+    <p class="warning">
+        IMPORTANT RISK NOTICE:
+    </p>
+
+    <p>
+        Kalash does not provide any guarantee, assurance, or promise of profits, returns, or capital protection.
+        Financial markets are inherently volatile and unpredictable, and users may incur partial or complete loss
+        of their invested capital.
+    </p>
+
+    <p>
+        Any references to historical performance, profit percentages, or prior outcomes are for illustrative
+        purposes only and do not constitute a guarantee of future results.
+    </p>
+
+    <p>
+        Users acknowledge and agree that all trading and investment decisions are made at their own discretion
+        and risk, and that Kalash shall not be held responsible for any financial losses incurred.
+    </p>
+
+</body>
+</html>
